@@ -1,0 +1,9 @@
+.intervals-container {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-items: flex-start;
+  align-content: flex-end;
+  overflow-x: auto;
+  width: 100%;
+}

@@ -1,0 +1,24 @@
+{
+  "printWidth": 160,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "encoding": "utf-8",
+  "extensions": [".js", ".jsx", ".ts", ".tsx"],
+  "singleQuote": false,
+  "jsxSingleQuote": true,
+  "jsxBracketSameLine": true,
+  "endOfLine": "lf",
+  "importOrder": [
+    ".*setEnvironmentVarialbes$",
+    "<THIRD_PARTY_MODULES>",
+    ".*(C|c)omponent$",
+    ".*(S|s)tores?(/index)?$",
+    "(^\\.\\.?/(?!.*((\\.css)|\\.type)$))",
+    ".*\\.css$",
+    ".*\\.type$"
+  ],
+  "importOrderSeparation": true,
+  "importOrderCaseInsensitive": true,
+  "importOrderSortSpecifiers": true
+}
